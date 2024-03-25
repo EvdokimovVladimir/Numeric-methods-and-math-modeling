@@ -10,3 +10,6 @@ $$
 $$
 x = 0.399403152382787
 $$
+
+# Источник
+https://mathworld.wolfram.com/Legendre-GaussQuadrature.html
